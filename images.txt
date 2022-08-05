@@ -1,0 +1,5 @@
+registry.opensource.zalan.do/acid/postgres-operator:v1.8.2 registry.cn-shanghai.aliyuncs.com/winhc-spider/postgres-operator:v1.8.2
+registry.opensource.zalan.do/acid/spilo-14:2.1-p6 registry.cn-shanghai.aliyuncs.com/winhc-spider/spilo-14:2.1-p6
+registry.opensource.zalan.do/acid/logical-backup:v1.8.0 registry.cn-shanghai.aliyuncs.com/winhc-spider/logical-backup:v1.8.0
+registry.opensource.zalan.do/acid/pgbouncer:master-22 registry.cn-shanghai.aliyuncs.com/winhc-spider/pgbouncer:master-22
+registry.opensource.zalan.do/acid/postgres-operator-ui:v1.8.2 registry.cn-shanghai.aliyuncs.com/winhc-spider/postgres-operator-ui:v1.8.2
