@@ -33,4 +33,4 @@ jobs:
           password: ${{ env.REGISTRY_PASSWORD }}
           registry: ${{ env.IMAGE_REGISTRY }}
       - name: Run Push
-        run: sh do_action.sh images.txt
+        run: sh action.sh images.txt
