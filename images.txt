@@ -4,3 +4,4 @@ registry.opensource.zalan.do/acid/logical-backup:v1.8.0 registry.cn-shanghai.ali
 registry.opensource.zalan.do/acid/pgbouncer:master-22 registry.cn-shanghai.aliyuncs.com/winhc-spider/pgbouncer:master-22
 registry.opensource.zalan.do/acid/postgres-operator-ui:v1.8.2 registry.cn-shanghai.aliyuncs.com/winhc-spider/postgres-operator-ui:v1.8.2
 ghcr.io/benjamin-maynard/kubernetes-cloud-mysql-backup:v2.6.0 registry.cn-shanghai.aliyuncs.com/winhc-spider/kubernetes-cloud-mysql-backup:v2.6.0
+ghcr.io/arroyosystems/arroyo-single:multi-arch registry.cn-shanghai.aliyuncs.com/winhc-spider/arroyo-single:multi-arch
