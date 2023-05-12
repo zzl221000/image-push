@@ -1,1 +1,1 @@
-gcr.io/distroless/java17-debian11 registry.cn-shanghai.aliyuncs.com/winhc-spider/java17-debian11
+prefecthq/prefect:2.10.9-python3.10 registry.cn-shanghai.aliyuncs.com/winhc-spider/prefect:2.10.9-python3.10
