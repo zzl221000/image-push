@@ -1,1 +1,1 @@
-prefecthq/prefect:2.10.9-python3.11-kubernetes registry.cn-shanghai.aliyuncs.com/winhc-spider/prefect:2.10.9-python3.11-kubernetes
+sunpeek/poetry:py3.9-slim registry.cn-shanghai.aliyuncs.com/winhc-spider/poetry:py3.9-slim
