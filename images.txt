@@ -1,1 +1,1 @@
-sunpeek/poetry:py3.9-slim registry.cn-shanghai.aliyuncs.com/winhc-spider/poetry:py3.9-slim
+nsqio/nsq:v1.2.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/nsq:v1.2.1
