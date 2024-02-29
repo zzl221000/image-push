@@ -1,2 +1,1 @@
-ghcr.io/kedacore/keda-metrics-apiserver:2.7.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/keda:keda-metrics-apiserver-2.7.1
-ghcr.io/kedacore/keda:2.7.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/keda:2.7.1
+quay.io/kroxylicious/kroxylicious:0.4.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/kroxylicious:0.4.1
