@@ -1,1 +1,1 @@
-quay.io/kroxylicious/kroxylicious:0.4.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/kroxylicious:0.4.1
+ghcr.io/zitadel/zitadel:v2.51.3 registry.cn-shanghai.aliyuncs.com/winhc-spider/zitadel:v2.51.3
