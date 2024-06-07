@@ -1,1 +1,1 @@
-ghcr.io/zitadel/zitadel:v2.54.1 registry.cn-shanghai.aliyuncs.com/winhc-spider/zitadel:v2.54.1
+rancher/mirrored-pause:3.6 registry.cn-shanghai.aliyuncs.com/winhc-spider/mirrored-pause:3.6
