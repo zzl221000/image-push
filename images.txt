@@ -1,1 +1,1 @@
-rancher/mirrored-pause:3.6 registry.cn-shanghai.aliyuncs.com/winhc-spider/mirrored-pause:3.6
+gcr.io/distroless/nodejs22-debian12 registry.cn-shanghai.aliyuncs.com/winhc-spider/base:distroless-nodejs22-debian12
