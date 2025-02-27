@@ -1,1 +1,1 @@
-gcr.io/distroless/cc-debian11 registry.cn-shanghai.aliyuncs.com/winhc-spider/base:distroless-cc-debian11
+gcr.io/distroless/cc-debian12 registry.cn-shanghai.aliyuncs.com/winhc-spider/base:distroless-cc-debian12
