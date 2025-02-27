@@ -1,1 +1,1 @@
-gcr.io/distroless/nodejs22-debian12 registry.cn-shanghai.aliyuncs.com/winhc-spider/base:distroless-nodejs22-debian12
+gcr.io/distroless/cc-debian11 registry.cn-shanghai.aliyuncs.com/winhc-spider/base:distroless-cc-debian11
